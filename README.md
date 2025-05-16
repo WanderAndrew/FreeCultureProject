@@ -128,6 +128,6 @@ You can try our bot here: [FreeCultureProject_bot](https://t.me/FreeCultureProje
 **DISCLAIMER** 
 > - Shared study notes are authored by me or published by users  
 > - Email addresses of professors are institutional and publicly available on the official website of the University (UNIVPM).
-    I’m simply aggregating them for comodity; please respect academic communication guidelines.
+    I’m simply aggregating them for convenience; please respect academic communication guidelines.
 
 *FreeCultureProject – Manage your digital library directly from Telegram!*  
