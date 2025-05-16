@@ -1,0 +1,58 @@
+{
+  "RootFolder": {
+    "files": [],
+    "subfolders": {
+      "Folder1": {
+        "files": [],
+        "subfolders": {
+          "SubfolderA": {
+            "files": [
+              {
+                "titolo": "file1.pdf",
+                "link": "https://example.com/file1.pdf",
+                "tag": [
+                  "Folder1",
+                  "SubfolderA"
+                ]
+              },
+              {
+                "titolo": "file2.pdf",
+                "link": "https://example.com/file2.pdf",
+                "tag": [
+                  "Folder1",
+                  "SubfolderA"
+                ]
+              }
+            ],
+            "subfolders": {}
+          },
+          "SubfolderB": {
+            "files": [
+              {
+                "titolo": "documento_test.pdf",
+                "link": "https://example.com/documento_test.pdf",
+                "tag": [
+                  "Folder1",
+                  "SubfolderB"
+                ]
+              }
+            ],
+            "subfolders": {}
+          }
+        }
+      },
+      "Folder2": {
+        "files": [
+          {
+            "titolo": "prova.pdf",
+            "link": "https://example.com/prova.pdf",
+            "tag": [
+              "Folder2"
+            ]
+          }
+        ],
+        "subfolders": {}
+      }
+    }
+  }
+}

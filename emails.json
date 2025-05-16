@@ -1,0 +1,33 @@
+{
+
+    "1° Anno": {
+      "Materia 1": {
+        "prof1": "prof1@prova.it"
+      },
+      "Materia 2": {
+        "prof2": "prof2@prova.it"
+      }
+    },
+
+
+    "2° Anno": {
+      "Materia 3": {
+        "prof3": "prof3@prova.it"
+      },
+      "Materia 4": {
+        "prof4": "prof4@prova.it"
+      }
+    },
+
+
+    "3° Anno": {
+        "Materia 5": {
+        "prof5": "prof5@prova.it"
+      },
+      "Materia 6": {
+        "prof6": "prof6@prova.it"
+      }
+    }
+    
+      
+  }
