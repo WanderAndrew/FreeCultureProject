@@ -125,7 +125,7 @@ This project allows you to create and manage a digital library on Telegram, sync
 ## Try It Online
 You can try our bot here: [FreeCultureProject_bot](https://t.me/FreeCultureProject_bot)
 
-*DISCLAIMER** 
+**DISCLAIMER** 
 > - Shared study notes are authored by me or published by users  
 > - Email addresses of professors are institutional and publicly available on the official website of the University (UNIVPM).
     I’m simply aggregating them for comodity; please respect academic communication guidelines.
